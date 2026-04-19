@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="style.css" />
+  <title>Browser</title>
+</head>
+
+<body>
+<h4> present by nhóm 1 </h4>
+
+<style>
+body {margin:0;}
+
+div {
+padding:10px
+}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #800000;
+position: fixed;
+top: 0;
+position: sticky;
+width: 100%;
+}
+
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: yellow;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+}
+
+li a:hover:not(.active) {
+color: yellow;
+background-color: #000080;
+font-weight: bold;
+}
+
+.active {
+background-color: #000000;
+color: white;
+font-weight: bold;
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+<h1 style="text-align: center;">Neymar, the <span style="color: gold;">prince </span> incapable of becoming a <span style="color: yellow;"> king </span></h1>
+
+</div>
+
+<ul>
+<li><a class="active" href="#ney1">Trang chủ</a></li>
+<li><a href="#ney2">Trang tiểu sử</a></li>
+<li><a href="#ney3">Trang sự nghiệp</a></li>
+<li><a href="#ney4">Trang thành tích</a></li>
+
+</ul>
+
+<div>
+<img src="https://i.pinimg.com/736x/b4/59/82/b45982ef9c60990c6d3addac07cc1e8f.jpg" alt="Neymarjr" width="100%">
+  <h2 id="ney1">1. Tổng quan về Neymar </h2><p> Neymar Jr. : (tên đầy đủ: <b>Neymar da Silva Santos Júnior</b>) là một trong những cầu thủ bóng đá tài hoa và nổi tiếng nhất thế giới thế kỷ 21. Anh được biết đến với kỹ thuật cá nhân điêu luyện, khả năng rê bóng lắt léo và lối chơi đậm chất "Samba". Anh hiện đang thi đấu ở vị trí tiền đạo hoặc tiền vệ tấn công cho <a href =”https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99i_tuy%E1%BB%83n_b%C3%B3ng_%C4%91%C3%A1_qu%E1%BB%91c_gia_Brasil” >đội tuyển bóng đá quốc gia Brazil </a> và là đội trưởng của câu lạc bộ Santos tại<a href=”https://vi.wikipedia.org/wiki/Campeonato_Brasileiro_S%C3%A9rie_A”> Campeonato Brasileiro Série A </a>.</p>
+<p>Neymar nổi bật tại Santos khi ra mắt chuyên nghiệp ở tuổi 17. Anh giúp đội giành hai chức vô địch Campeonato Paulista liên tiếp, một Copa do Brasil và đặc biệt là Copa Libertadores 2011 – danh hiệu lớn nhất của Santos kể từ năm 1963. Neymar hai lần được bầu là Cầu thủ xuất sắc nhất Nam Mỹ (2011, 2012) trước khi chuyển sang Barcelona.<br><br>
+Tại Barcelona, anh tạo thành bộ ba tấn công MSN cùng Lionel Messi và Luis Suárez, giúp đội giành cú ăn ba (La Liga, Copa del Rey, UEFA Champions League) và cú đúp quốc nội mùa 2015–16. Năm 2017, Neymar chuyển đến PSG với mức phí kỷ lục 222 triệu euro. Tại đây, anh giành 4 chức vô địch Ligue 1, nhiều danh hiệu khác, được bầu Cầu thủ xuất sắc nhất Ligue 1 mùa đầu tiên và giúp PSG giành cú ăn bốn nội địa mùa 2019–20, đồng thời dẫn dắt đội vào chung kết Champions League lần đầu tiên trong lịch sử.<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Neymar_Jr._with_Al_Hilal%2C_3_October_2023_-_03_%28cropped%29.jpg" alt="Neymar thi đấu trong màu áo Al Hilal vào năm 2023" width="50%"><br><br>
+Đối với đội tuyển Brazil, Neymar đã ghi 77 bàn sau 124 trận, ngang với kỷ lục của Pelé. Ở cấp độ trẻ, anh là ngôi sao của U20 vô địch Nam Mỹ 2011 (vua phá lưới), giành huy chương bạc Olympic 2012, vô địch Confederations Cup 2013 (Quả bóng vàng). Anh tham dự World Cup 2014 và Copa América 2015 nhưng đều bị gián đoạn bởi chấn thương và án treo giò. Năm 2016, Neymar dẫn dắt Brazil giành huy chương vàng Olympic đầu tiên môn bóng đá nam. Sau khi bỏ lỡ Copa América 2019 vì chấn thương, anh giúp đội vào chung kết Copa América 2021.<br><br>
+Neymar về thứ ba Quả bóng Vàng FIFA năm 2015 và 2017, giành giải FIFA Puskás, hai lần vào FIFA FIFPro World11, hai lần Đội hình xuất sắc nhất UEFA và ba lần Đội hình tiêu biểu Champions League. Ngoài sân cỏ, anh là một trong những vận động viên có sức ảnh hưởng và giá trị thương mại lớn nhất thế giới. Anh từng được SportsPro vinh danh là vận động viên có thị trường tốt nhất thế giới (2012, 2013), lọt top 100 người có ảnh hưởng nhất thế giới của Time (2017), và nhiều năm liền nằm trong nhóm vận động viên được trả lương cao nhất hành tinh theo Forbes và France Football.<br><br>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Neymar_da_Silva_Santos_J%C3%BAnior_signature.svg/250px-Neymar_da_Silva_Santos_J%C3%BAnior_signature.svg.png" alt="Chữ kí của Neymar" width="50%"><p>Chữ kí của Neymar</p>
+<br><br>
+</p>
+<h2 id="ney2">2. Trang tiểu sử</h2>
+<p>Neymar da Silva Santos Júnior sinh ra ở Mogi das Cruzes, São Paulo, với Neymar Santos Sr. và Nadine da Silva và lớn lên theo đạo Thiên chúa. Anh thừa hưởng tên của mình từ cha mình, một cựu cầu thủ bóng đá và trở thành cố vấn của con trai ông khi tài năng của Neymar bắt đầu phát triển. Neymar nhận xét về vai trò của người cha: "Cha tôi đã ở bên cạnh tôi từ khi tôi còn nhỏ. Ông ấy chăm sóc mọi thứ, tài chính và gia đình của tôi." Lớn lên, Neymar kết hợp tình yêu futsal với bóng đá đường phố. Neymar nói rằng futsal có ảnh hưởng lớn đến anh khi lớn lên, giúp anh phát triển kỹ thuật, tốc độ tư duy và khả năng thực hiện các động tác trong không gian chật hẹp.
+
+Năm 2003, Neymar cùng gia đình chuyển đến São Vicente, nơi anh bắt đầu chơi cho đội trẻ Portuguesa Santista. Sau đó, vào năm 2003, họ chuyển đến Santos, nơi Neymar gia nhập Santos. Với sự thành công trong sự nghiệp của anh ấy và thu nhập tăng thêm, gia đình đã mua tài sản đầu tiên của họ, một ngôi nhà bên cạnh Vila Belmiro, sân vận động quê hương của Santos. Chất lượng cuộc sống gia đình của họ được cải thiện, khi ở tuổi 15, Neymar kiếm được 10.000 reais mỗi tháng và ở tuổi 16 là 125.000 reais mỗi tháng. Năm 17 tuổi, anh ký hợp đồng chuyên nghiệp đầy đủ đầu tiên, được nâng cấp lên đội một của Santos và bắt đầu ký các hợp đồng tài trợ đầu tiên.</p>
+<br>
+Neymar đã thể hiện tài năng chơi bóng xuất sắc từ nhỏ và trở thành mục tiêu săn đuổi của các ông lớn. Anh bắt đầu sự nghiệp chuyên nghiệp từ câu lạc bộ Santos tại quê nhà, anh có 5 mùa giải tại đây thi đấu 225 trận và ghi tới 136 bàn thắng.
+
+Đến mùa giải 2013-2014, Neymar gia nhập Barcelona tại đây anh đã cùng Messi và Suarez tạo nên bộ ba MSN nổi tiếng và giành tất cả danh hiệu tại cấp độ CLB. Sau 4 mùa giải Neymar ra sân 186 trận và ghi 105 bàn.
+
+Mùa giải 2017-18, Neymar gia nhập PSG với bản hợp đồng kỉ lục 222 triệu Euro.Anh được kỳ vọng sẽ đưa PSG đến chức vô địch C1 nhưng không thành công. Đến mùa giải 2023 Neymar gia nhập Al Hilal thuộc giải vô địch Saudi Pro League.
+
+Tại cấp độ ĐTQG, Neymar luôn là niềm cảm hứng và là niềm hi vọng của Selecao, nhưng danh hiệu cao quý nhất mà Neymar đạt được là tấm huy chương vàng Olympic vào năm 2016.
+<p>
+<h2 id="ney3">3. Sự nghiêp cầu thủ</h2>
+  <h3>3.1. Sự nghiệp CLB</h3>
+  <h3>3.1.1. Santos 2009–2013</h3>
+  <p><b>Thiếu niên</b></p>
+<p>Neymar bắt đầu chơi bóng đá từ khi còn nhỏ và anh sớm được Santos phát hiện và ký hợp đồng vào năm 2003; nơi anh được đưa vào học viện trẻ của họ, nơi trước đây đã sản sinh ra những cầu thủ quốc tế người Brazil như Coutinho, Clodoaldo, Diego, Elano và Alex.
+
+Anh cũng tham gia cùng những người như Pepe, Pelé và Robinho để bắt đầu sự nghiệp của mình tại câu lạc bộ có biệt danh là Peixe. Trong thời gian ở học viện trẻ, Neymar đã gặp Paulo Henrique Ganso, trở thành bạn tốt của nhau trong quá trình này.
+
+Năm 14 tuổi, Neymar đã đến Tây Ban Nha để thử sức với đội trẻ Real Madrid. Tuy nhiên, anh đã không ở lại Madrid vì cha anh đã quyết định vào thời điểm đó rằng ông thích thần đồng trẻ tuổi này tiếp tục lớn lên trong khi chơi cho Santos.</p>
+<p><b>2009: Mùa giải ra mắt</b></p>
+<p><b>2010: Campeonato Paulista thành công</b></p>
+<p><b>2011: Giải thưởng Puskás</b></p>
+<p><b>2012: Cầu thủ xuất sắc nhất Nam Mỹ</b></p>
+<p><b>2013: Mùa giải cuối cùng</b></p>
+<h3> 3.1.2. Barcelona 2013–2017</h3>
+<p><b>2013–14: Thích nghi với Tây Ban Nha</b></p>
+<p><b>2014–15: Cú ăn ba và thành công cá nhân bộ ba MSN</b></p>
+<p><b>2015–16: Cú đúp quốc nội</b></p>
+<p><b>2016–17: Mùa giải cuối cùng</b></p>
+<p><b>Mong muốn rời khỏi Barcelona</b></p>
+<h3> 3.1.3 Paris Saint-Germain 2017–2023</h3>
+<p><b>Vụ kiện vi phạm hợp đồng</b></p>
+<p><b>2017–18: Mùa giải đầu tiên và cú ăn ba trong nước</b></p>
+<p><b>2018–19: Chấn thương và danh hiệu vô địch</b></p>
+<p><b>Khả năng trở lại Barcelona</b></p>
+<p><b>2019–20: Trận chung kết Champions League đầu tiên của PSG</b></p>
+<p><b>2020–21: Gia hạn hợp đồng</b></p>
+<p><b>2021–22: Kỷ lục vô địch Ligue 1 và chấn thương</b></p>
+<p><b>2022–23: Mùa giải cuối cùng tại PSG</b></p>
+<p><b>Tháng 8 năm 2023: chia tay PSG</b></p>
+<h3> 3.1.4 Al Hilal 2023 - 2025</h3>
+<h3> 3.1.5 Trở lại Santos</h3>
+<h3> 3.2 Sự nghiệp đội tuyển quốc gia</h3>
+<p><b>2013–2014: Chiến thắng tại Confederations Cup và đột phá tại World Cup</b></p>
+<p><b>2015–2016: Đảm nhận chức đội trưởng và huy chương vàng Olympic</b></p>
+<p><b>2018: Giải vô địch bóng đá thế giới</b></p>
+<p><b>2019–2021: Á quân Copa América</b></p>
+<p><b>2022–nay: World Cup và cầu thủ ghi nhiều bàn thắng nhất mọi thời đại của Brazil</b></p>
+<h2 id="ney4">4. Thành tích và danh hiệu đạt được</h2>
+<h3>4.1 Danh hiệu tại CLB</h3>
+<p><b>Santos</b></p>
+<p>
+Copa do Brasil: 2010
+Campeonato Paulista: 2010, 2011, 2012; runner-up: 2009
+Copa Libertadores: 2011
+Recopa Sudamericana: 2012</p>
+<p><b>barcelona </b></p>
+
+<p>La Liga: 2014–15, 2015–16
+Copa del Rey: 2014–15, 2015–16, 2016–17
+Supercopa de España: 2013
+UEFA Champions League: 2014–15
+FIFA Club World Cup: 2015</p>
+
+<p><b>Paris Saint-Germain </b></p>
+<p>
+Ligue 1: 2017–18, 2018–19, 2019–20, 2021–22, 2022–23
+Coupe de France: 2017–18, 2019–20, 2020–21; runner-up: 2018–19
+Coupe de la Ligue: 2017–18, 2019–20
+Trophée des Champions: 2018, 2020, 2022
+UEFA Champions League runner-up: 2019–20 </p>
+    <p><b>Al-Hilal</b></p>
+<p> Saudi Pro League: 2023–24 </p>
+
+<h3>4.2 Danh hiệu tại ĐTQG</h3>
+<p><b>Brazil U20</b></p>
+<p>South American U-20 Championship: 2011</p>
+
+<p><b>Brazil Olympic</b></p>
+<p> Summer Olympics: 2016; runner-up: 2012</p>
+
+<p><b>Brazil</b></p>
+<p> 
+FIFA Confederations Cup: 2013
+Copa América runner-up: 2021 </p>
+<h3>4.3 Danh hiệu cá nhân</h3>
+<p>
+Campeonato Brasileiro Série A Team of the Year: 2010, 2011, 2012
+Chuteira de Ouro: 2010, 2011, 2012
+Bola de Prata: 2010, 2011
+Bola de Ouro: 2011
+Campeonato Brasileiro Série A Best Player: 2011
+World Soccer Young Player of the Year: 2011
+Copa Libertadores Most Valuable Player: 2011
+FIFA Club World Cup Bronze Ball: 2011
+South American Footballer of the Year: 2011, 2012
+FIFA Puskás Award: 2011
+Bola de Ouro Hors Concours: 2012
+FIFA Confederations Cup Golden Ball: 2013
+FIFA Confederations Cup Bronze Shoe: 2013
+FIFA Confederations Cup Dream Team: 2013
+FIFA World Cup Bronze Boot: 2014
+FIFA World Cup Dream Team: 2014
+Samba Gold: 2014, 2015, 2017, 2020, 2021, 2022
+UEFA Champions League Squad of the Season: 2014–15, 2019–20, 2020–21
+La Liga Best World Player: 2014–15
+La Liga Player of the Month: November 2015
+UNFP Ligue 1 Player of the Year: 2017–18
+UNFP Ligue 1 Team of the Year: 2017–18, 2018–19, 2020–21
+UNFP Ligue 1 Player of the Month: January 2020, August 2022
+UEFA Team of the Year: 2015, 2020
+FIFA FIFPRO World 11: 2015, 2017
+IFFHS Men's World Team: 2017
+ESM Team of the Year: 2017–18
+IFFHS CONMEBOL Team of the Decade: 2011–2020
+Copa América Team of the Tournament: 2021 </p>
+<h2 id="ney5">5. Cuộc sống cá nhân</h2>
+<p>
+Neymar có mối quan hệ anh em rất thân thiết với chị gái Rafaella Beckran. Anh đã vinh danh Beckran bằng cách xăm hình khuôn mặt của cô lên cánh tay mình trong khi cô xăm hình đôi mắt của anh trai mình lên cánh tay. Neymar là cha của ba đứa con, mỗi đứa có một người phụ nữ khác nhau: một cậu con trai sinh năm 2011 và hai cô con gái, lần lượt sinh năm 2023 và 2024.
+Neymar là một người theo đạo Thiên chúa và theo nhánh Ngũ tuần của tôn giáo này. Neymar đã nói về đức tin của mình: "Cuộc sống chỉ có ý nghĩa khi lý tưởng cao nhất của chúng ta là phục vụ Chúa Kitô !" Ngoài ra, anh ấy đã đeo một chiếc băng đô có dòng chữ "100% là Chúa Jesus".
+Neymar cũng dành một phần thu nhập của mình cho nhà thờ và coi Kaká là hình mẫu tôn giáo của mình. Hàng năm, Neymar tổ chức một trận đấu từ thiện với cầu thủ bóng đá người Brazil Nenê tại quê hương Jundiaí của Nenê, với mục đích gây quỹ từ thiện cho các gia đình nghèo. Ngoài tiếng Bồ Đào Nha bản địa, Neymar còn nói được tiếng Tây Ban Nha.
+Vào tháng 7 năm 2019, cảnh sát thông báo rằng cuộc điều tra hiếp dâm đối với Neymar sẽ bị hủy bỏ do không đủ bằng chứng. Vào ngày 2/9/2020, có thông tin cho rằng Neymar, cùng với các đồng đội tại PSG là Ángel Di María và Leandro Paredes, đã có kết quả xét nghiệm dương tính với COVID-19.
+Tờ báo thể thao Pháp L'Équipe cho biết ba cầu thủ này được cho là đã đi nghỉ ở Ibiza. Do đó, họ đã bị cách ly trong một tuần và những cầu thủ còn lại cùng đội ngũ nhân viên làm việc đã được lên lịch xét nghiệm vi-rút corona trong cùng tuần đó.
+Trong trận đấu giữa Paris Saint-Germain và Marseille, Neymar báo cáo rằng anh đã bị Álvaro González phân biệt chủng tộc sau khi bị đuổi khỏi sân vì đánh vào sau đầu González. Hậu vệ người Tây Ban Nha phủ nhận việc đưa ra bất kỳ bình luận phân biệt chủng tộc nào đối với Neymar.
+Vào ngày 16/9, Neymar đã bị cấm thi đấu hai trận vì hành động của mình; Ligue 1 cũng bắt đầu điều tra những bình luận phân biệt chủng tộc được cho là của Álvaro. Vài ngày trước quyết định của giải đấu Pháp, đài phát thanh Tây Ban Nha Cadena SER tuyên bố có đoạn phim ghi lại cảnh Neymar phân biệt chủng tộc với cầu thủ Hiroki Sakai của OM.
+Vào ngày 30/9, Ligue 1 quyết định rằng cả Álvaro và Neymar sẽ không bị đình chỉ vì không có đủ bằng chứng về hành vi sai trái của họ. Ngoài ra, Sakai phủ nhận mọi bình luận phân biệt chủng tộc từ Neymar trên mạng xã hội.
+</p>
+<p><b>Neymar ủng hộ Tổng thống Brazil Jair Bolsonaro trong cuộc tổng tuyển cử Brazil năm 2022. </p></b>
+<p>
+Vào mùa hè năm 2023, Agence France-Presse, trích dẫn các nhà chức trách địa phương, đã đưa tin rằng Neymar phải đối mặt với khoản tiền phạt tiềm tàng khoảng 1 triệu đô la vì vi phạm môi trường trong quá trình xây dựng biệt thự Mangaratiba của mình. Việc chuyển hướng trái phép đường thủy, sử dụng cát bãi biển mà không được phép và đào đất trái phép đã được đề cập trong báo cáo.
+Neymar đã ký nhiều hợp đồng tài trợ kể từ khi danh tiếng của anh bắt đầu phát triển từ năm 17 tuổi. Vào tháng 3 năm 2011, anh đã ký hợp đồng 11 năm với công ty đồ thể thao Mỹ Nike, hợp đồng này đã kết thúc vào tháng 8 năm 2020 sau khi một nhân viên của Nike khiếu nại anh về hành vi tấn công tình dục. Kể từ đó, Neymar đã ký hợp đồng với công ty đồ thể thao Đức Puma.
+Vào tháng 3 năm 2011, Panasonic đã trả 2,4 triệu đô la Mỹ để đảm bảo các dịch vụ của Neymar trong hai năm. Năm 2012, France Football đã xếp Neymar ở vị trí thứ 13 trong danh sách những cầu thủ giàu nhất thế giới, với tổng thu nhập là 18,8 triệu đô la trong 12 tháng trước đó. Anh cũng đã ký các hợp đồng tài trợ khác từ Volkswagen, Tenys Pé Baruel, Lupo, Ambev, Claro, Unilever và Santander.
+Năm 2018, France Football xếp Neymar là cầu thủ bóng đá được trả lương cao thứ ba thế giới, với tổng thu nhập là 81,5 triệu euro (95 triệu đô la) trong năm. Năm 2019, Forbes xếp Neymar là vận động viên được trả lương cao thứ ba thế giới (sau Lionel Messi và Cristiano Ronaldo) với thu nhập là 105 triệu đô la trong năm.
+Vào ngày 8/5/2013, tạp chí SportsPro vinh danh Neymar là vận động viên có giá trị tiếp thị nhất thế giới, xếp trên Lionel Messi (thứ 2) và Cristiano Ronaldo (thứ 8). Cùng tháng đó, Neymar ra mắt giày bóng đá Nike Hypervenom.
+Vào tháng 11 năm 2012, công ty quảng cáo Loducca đã tạo ra logo thương hiệu cá nhân của Neymar, có chữ N, J và R (Neymar Junior) với chữ N được tạo kiểu để phù hợp với số áo 11 của Neymar.
+Neymar đã đóng vai chính trong một quảng cáo năm 2014 cho Beats cùng với các ngôi sao bóng đá khác như Thierry Henry và Luis Suárez, với chủ đề 'Trận đấu trước trận đấu' và nghi thức nghe nhạc trước trận đấu của các cầu thủ.
+Neymar xuất hiện trên trang bìa của trò chơi điện tử Pro Evolution Soccer 2012 và Pro Evolution Soccer 2013 trên phiên bản Bắc Mỹ, sau khi Konami Digital Entertainment thông báo rằng anh đã tham gia Pro Evolution Soccer.
+Neymar đã tham gia cùng Cristiano Ronaldo với tư cách là một vận động viên trang bìa nổi bật. Neymar cũng xuất hiện trong loạt trò chơi điện tử FIFA của EA Sports, với đoạn giới thiệu cho FIFA 18 cho thấy anh mặc áo đấu sân nhà PSG.
+Anh xuất hiện cùng Cristiano Ronaldo trong các gói Champions và Ultimate Edition cho FIFA 19, trong đó màn ăn mừng bàn thắng "Hang Loose" của Neymar cũng xuất hiện trong trò chơi.
+Neymar cũng xuất hiện với tư cách là một người điều hành có thể chơi được trong game bắn súng góc nhìn thứ nhất năm 2022 Call of Duty: Modern Warfare II cùng với các cầu thủ bóng đá khác là Paul Pogba và Lionel Messi, những người có mô hình nhân vật được phát hành dưới dạng nội dung có thể tải xuống để trùng với FIFA World Cup 2022.
+Neymar xuất hiện trên trang bìa tạp chí Time vào tháng 2 năm 2013, là vận động viên Brazil đầu tiên làm như vậy. Ấn bản này có bài viết của Bobby Ghosh có tiêu đề "The Next Pelé" và phụ đề "Sự nghiệp của ngôi sao bóng đá Brazil Neymar giải thích nền kinh tế của đất nước anh ấy như thế nào".
+Tranh cãi nổ ra vì một trang bìa của tạp chí bóng đá Brazil Placar có hình ảnh Neymar bị đóng đinh. Tựa đề có nội dung "A Crucificação de Neymar" (Sự đóng đinh của Neymar) và phụ đề: "cầu thủ Brazil trở thành vật tế thần trong một môn thể thao mà mọi người đều chơi bẩn".
+Vào tháng 4 năm 2013, họa sĩ truyện tranh người Brazil Mauricio de Sousa đã phát hành truyện tranh Monica's Gang có phiên bản trẻ hơn của Neymar (được gọi là Neymar Jr. ) là nhân vật chính.
+Vào tháng 5 năm 2013, tạp chí SportsPro đã vinh danh Neymar là vận động viên có giá trị tiếp thị nhất hành tinh trong năm thứ hai liên tiếp. Anh đứng đầu danh sách này, xếp trên Lionel Messi, Rory McIlroy, Usain Bolt và Cristiano Ronaldo, cùng nhiều vận động viên khác.
+Danh sách này đánh giá giá trị tiền tệ, độ tuổi, sức ảnh hưởng trên thị trường trong nước, sức hút và tiềm năng thị trường của họ trong ba năm tới. Vào tháng 3 năm 2015, Neymar có thứ hạng phương tiện truyền thông xã hội cao thứ tư trên thế giới trong số các vận động viên, sau Cristiano Ronaldo, Lionel Messi và David Beckham, với 52 triệu người hâm mộ trên Facebook.
+Anh có hơn 200 triệu người theo dõi trên Instagram, cao thứ ba đối với một vận động viên (sau Cristiano Ronaldo và Messi) và nằm trong top 20 người được theo dõi nhiều nhất. Trong danh sách những vận động viên đang hoạt động của ESPN năm 2016, Neymar được xếp hạng là vận động viên nổi tiếng thứ tư trên thế giới.
+Vào tháng 4 năm 2017, Neymar được tạp chí Time đưa vào danh sách Time 100, danh sách những người có ảnh hưởng nhất thế giới. Năm 2019, ESPN một lần nữa xếp anh là vận động viên nổi tiếng thứ tư thế giới.
+Để đánh dấu sự khởi đầu của World Cup tại Brazil, vào tháng 6 năm 2014, Neymar đã xuất hiện cùng siêu mẫu Gisele Bündchen trên trang bìa tạp chí Vogue phiên bản Brazil.
+Vào tháng 11 năm 2014, Neymar đã xuất hiện trong chiến dịch "11 chống lại Ebola " của FIFA với sự tham gia của nhiều cầu thủ bóng đá hàng đầu thế giới, bao gồm Cristiano Ronaldo, Gareth Bale, Xavi và Didier Drogba.
+Dưới khẩu hiệu "Cùng nhau, chúng ta có thể đánh bại Ebola", chiến dịch của FIFA được thực hiện kết hợp với Liên đoàn bóng đá châu Phi và các chuyên gia y tế, với các cầu thủ giơ cao mười một thông điệp để nâng cao nhận thức về căn bệnh này và các cách chống lại nó.
+Hợp tác với DAZN, năm 2019, Neymar đã xuất hiện trong loạt phim The Making Of, phim tài liệu tái hiện những trận đấu quan trọng đã góp phần định hình nên những biểu tượng bóng đá hiện đại vĩ đại nhất, với Neymar kể lại màn trình diễn của mình cho Santos trước Flamengo năm 2011 khi anh ghi bàn thắng giành giải thưởng FIFA Puskás năm đó cho Bàn thắng của năm, và cả bộ phim Neymar and the Line of King kể về hành trình của Neymar để trở thành một trong những cầu thủ hàng đầu của Brazil.
+Gần đây nhất, anh ấy đã ký một thỏa thuận với Facebook Gaming. Anh ấy cũng là chủ đề của loạt phim tài liệu năm 2022 của Netflix có tựa đề Neymar: The Perfect Chaos.
+Trong những ngày trước cuộc bầu cử tổng thống Brazil năm 2022, Neymar đã xuất hiện trong một video TikTok, trong đó anh ấy hát nhép một bài hát vận động tranh cử quảng bá cho Tổng thống cánh hữu và bảo thủ xã hội của đất nước Jair Bolsonaro.
+Anh ấy đã nhận được sự chỉ trích nặng nề vì sự ủng hộ của mình. Bolsonaro đã bị Luiz Inácio Lula da Silva đánh bại trong cuộc bầu cử.
+Neymar đã trở thành biểu tượng trong việc quảng bá nhạc pop hiện đại của Brazil, đặc biệt là Música sertaneja. Video Neymar nhảy trong phòng thay đồ của Santos trước mặt các đồng đội, mang theo máy ghi âm, đi vòng quanh các cầu thủ và khiến họ phản ứng theo giai điệu bài hát hit " Ai se eu te pego! " của Michel Teló đã lan truyền.
+Anh ấy đã thực hiện động tác nhảy theo bài hát sau khi ghi bàn trong các trận bóng đá và xuất hiện trực tiếp cùng Teló trong một trong những buổi hòa nhạc của Teló. Anh ấy cũng hỗ trợ ca sĩ sertanejo Gusttavo Lima biểu diễn trực tiếp cùng Lima trong các bản hit " Balada " và "Fazer Beber" của ca sĩ này.
+Năm 2012, anh ấy đã xuất hiện thoáng qua trong video ca nhạc cho một bản hit sertanejo khác " Eu Quero Tchu, Eu Quero Tcha " của João Lucas & Marcelo. Năm 2013, Neymar đã xuất hiện trong một video ca nhạc rap, "País do Futebol" của MC Guimê.
+</p>
+
+</div>
+
+</body>
